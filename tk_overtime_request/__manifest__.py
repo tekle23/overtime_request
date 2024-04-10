@@ -4,6 +4,7 @@
     'summary': 'Request and pay employee overtime with dynamic rate',
     'description': """Request and pay employee overtime with dynamic rate for more call us on +251 969139025 or emai us on: tekleyitayew12@gmail.com """,
     'category': 'Human Resource',
+    'author':'Tekle Yitayew',
     'website': '',
     'depends': [
         'hr',
